@@ -1,5 +1,7 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -30,6 +32,10 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 9688ed67671d3676a1c03b57eef8bd04e8d5d2da
+=======
+>>>>>>> cf8c51e11a63a203bfeeedae328e06ef9e20019d
     "com.unity.collab-proxy": {
       "version": "1.17.7",
       "depth": 0,
@@ -106,6 +112,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.purchasing": {
       "version": "4.5.1",
       "depth": 0,
@@ -131,6 +139,10 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 9688ed67671d3676a1c03b57eef8bd04e8d5d2da
+=======
+>>>>>>> cf8c51e11a63a203bfeeedae328e06ef9e20019d
     "com.unity.services.core": {
       "version": "1.6.0",
       "depth": 1,
@@ -210,6 +222,8 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.10",
       "depth": 0,
@@ -220,6 +234,10 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 9688ed67671d3676a1c03b57eef8bd04e8d5d2da
+=======
+>>>>>>> cf8c51e11a63a203bfeeedae328e06ef9e20019d
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
